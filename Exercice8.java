@@ -54,15 +54,15 @@ class Exercice8 {
             System.out.println("La date que vous avez saisi n'est pas valide");
         } else if ((jour>0)&&(jour<16)) {
             if (num%2==1) {
-                System.out.println("Vous etes bien stationne(e).")
+                System.out.println("Vous etes bien stationne(e).");
             } else {                
-                System.out.println("Vous n'etes pas bien stationne(e).")
+                System.out.println("Vous n'etes pas bien stationne(e).");
             }
         } else {
             if (num%2==0) {
-                System.out.println("Vous etes bien stationne(e).")
+                System.out.println("Vous etes bien stationne(e).");
             } else {                
-                System.out.println("Vous n'etes pas bien stationne(e).")
+                System.out.println("Vous n'etes pas bien stationne(e).");
             }
         }
         
